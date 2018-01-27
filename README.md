@@ -1,0 +1,2 @@
+# Titanic
+kaggleのコンペに参加
